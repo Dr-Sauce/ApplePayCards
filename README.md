@@ -5,8 +5,6 @@ Card images from Apple Pay, PayPal.
 
 # South Korea
 
-Add `.png` to the end of the file name after downloading. 
-
 <details>
   <summary>Hyundai Card</summary>
   
@@ -115,12 +113,9 @@ Add `.png` to the end of the file name after downloading.
 | **카카오뱅크 BUSINESS 현대카드**                         |           | https://img.hyundaicard.com/img/com/card/card_SMEKKOB_h.png                 |
 | **캐시노트 BUSINESS 현대카드**                          |           | https://img.hyundaicard.com/img/com/card/card_SMECN_h.png                   |
 | **현대 소상공인 특례 햇살론카드**                            |           | https://img.hyundaicard.com/img/com/card/card_SLMB_h.png                    |
-
-
-
 </details>
 
-<details open>
+<details>
   <summary>ETC</summary>
   
 |            | Apple Pay | Tmoney |
@@ -131,23 +126,24 @@ Add `.png` to the end of the file name after downloading.
 
 # United States
 
-<details>
+<details open>
   <summary>American Express</summary>
   <b>
     
-|  | American Express |
-|---|---|
-| **American Express Business Green** | https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_green_card.png |
-| **American Express Business Gold** | https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_gold_card.png |
-| **American Express Business Platinum** | https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_platinum_card.png |
-| **American Express Corporate Green** | https://www.americanexpress.com/content/dam/insurance/en-CA/corp_green_in_blank_690x435.png |
-| **American Express Corporate Gold** | https://www.americanexpress.com/content/dam/insurance/en-CA/corp_gold_de_no_cm_480x304.png |
-| **American Express Corporate Platinum** | https://www.americanexpress.com/content/dam/insurance/en-CA/corp_plat_de_blank_690x435.png |
+|                                                          | Apple Pay                                                                                         | PayPal                                                                                                           | American Express                                                                                                                                                           |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **American Express Blue Business Plus** |  https://nc-pod10-smp-device-asset.apple.com:443/broker/v1/assets/85e3413cd6b247d39115009bdccd3f48 |  https://pics.paypal.com/00/s/OTY5WDE1MzZYUE5H/p/Yzg1NzQ5ZWQtMGVjMi00NmNlLWJjOGMtODZjOGVjMzJjNTRk/image__140.png |
+| **American Express Business Green** |                                                                                                   |                                                                                                                  |  https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_green_card.png |
+| **American Express Business Gold** |                                                                                                   |                                                                                                                  |  https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_gold_card.png |
+| **American Express Business Platinum** |                                                                                                   |                                                                                                                  |  https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_platinum_card.png |
+| **American Express Corporate Green** |                                                                                                   |                                                                                                                  |  https://www.americanexpress.com/content/dam/insurance/en-CA/corp_green_in_blank_690x435.png |
+| **American Express Corporate Gold** |                                                                                                   |                                                                                                                  |  https://www.americanexpress.com/content/dam/insurance/en-CA/corp_gold_de_no_cm_480x304.png |
+| **American Express Corporate Platinum** |                                                                                                   |                                                                                                                  |  https://www.americanexpress.com/content/dam/insurance/en-CA/corp_plat_de_blank_690x435.png |
     
 </b>
 </details>
 
-<details>
+<details open>
   <summary>Chase</summary>
   <b>
 
@@ -155,7 +151,7 @@ Add `.png` to the end of the file name after downloading.
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Amazon Visa**                                          |                                                                                                   |                                                                                                                  | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/amazon/41473466007.png                                            |
 | **Chase Freedom**                                        |                                                                                                   |                                                                                                                  | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-5-percent/41473267053.png                   |
-| **Chase Freedom Flex**                                   | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/87zmNMEPM5a8RYvKRTUWPauYZz8Prgfa3FtdjuKPqvTJ |                                                                                                                  | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-flex/54175610021.png    
+| **Chase Freedom Flex**                                   | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/87zmNMEPM5a8RYvKRTUWPauYZz8Prgfa3FtdjuKPqvTJ |  https://pics.paypal.com/00/s/OTY5WDE1MzZYSlBH/p/NWI5YzFlOTgtNTc4NC00MzIyLTk4ZDMtZTcwZThmNzI5NGEz/image__140.jpg | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-flex/54175610021.png    
 | **Chase Freedom Flex (Old)**                                   | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/3a23e78ffabf4bbca5062e27bba68572 |                                                                                                                  | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-flex/54173667016.png                        |
 | **Chase Freedom Unlimited**                              | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/af527ef0dba147a7979ea19783815996 | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MmU1MzllYjctNzllNC00MjJhLTgyMDItNWJjNzBlYTE5M2Jj/image__140.png | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-unlimited/41473267054.png                   |
 | **Chase Freedom Unlimited - Visa Signature**             |                                                                                                   |                                                                                                                  | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-unlimited/41473467067.png                   |
